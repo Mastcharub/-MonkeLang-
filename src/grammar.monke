@@ -1,0 +1,19 @@
+🦧
+    🐒 function ::
+        🍌 string :: "string"
+        🙈 :: string
+
+        🍌 input :: ""
+        🙉 :: input
+        🙈 :: "Your Input Is " + input
+
+        🦍 input :: string ::
+            🙈 :: "MONKE"
+        
+        🐵 🍌 i :: 0 :: i < 4 :: i++ ::
+            🙈 :: "MONKE"
+        
+        🙊 :: true ::
+            🙈 :: "MONKE"
+    
+🦧

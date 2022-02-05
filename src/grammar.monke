@@ -1,9 +1,9 @@
-🦧
+🦧 class ::
     🐒 function ::
         🍌 string :: "string"
         🙈 :: string
 
-        🍌 input :: ""
+        🍌 input :: "string"
         🙉 :: input
         🙈 :: "Your Input Is " + input
 
@@ -15,5 +15,5 @@
         
         🙊 :: true ::
             🙈 :: "MONKE"
-    
-🦧
+
+class\function
